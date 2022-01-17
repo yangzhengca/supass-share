@@ -1,3 +1,13 @@
+## Intro
+
+Codeshare clone, build with Svelte, CodeMirror, Firebase, and Firepad.
+
+## Live Demo
+
+[https://surpass-share.netlify.app/](https://surpass-share.netlify.app/)
+
+## Related Sources
+
 ### CodeMirror 
 
 GitHub repo
